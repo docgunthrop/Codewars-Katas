@@ -1,7 +1,7 @@
 # Codewars-Katas
 A listing of Codewars katas I have created (in order from most recently published)
 
-[Dota 2 Bots - Pudge's Meat Hook](https://www.codewars.com/kata/5a0511b8697598c8c9000069) -- Ranking: currently in Beta
+[**Dota 2 Bots - Pudge's Meat Hook**](https://www.codewars.com/kata/5a0511b8697598c8c9000069) -- Ranking: currently in Beta
 
 [**Major Tom vs Space Invaders**](https://www.codewars.com/kata/59fabc2406d5b638f200004a) -- Ranking: currently in Beta
 
