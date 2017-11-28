@@ -3,7 +3,7 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
-[**Shakespearean Tug of War**](https://www.codewars.com/kata/5a1a46ef80171fc2b0000064) -- Ranking: currently in Beta
+[**Shakespearean Tug of War**](https://www.codewars.com/kata/5a1a46ef80171fc2b0000064) -- Ranking: 6 kyu
 
 [**Dota 2 Bots - Pudge's Meat Hook**](https://www.codewars.com/kata/5a0511b8697598c8c9000069) -- Ranking: currently in Beta
 
