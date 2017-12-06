@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Sliding Puzzle Solver**](https://www.codewars.com/kata/5a20eeccee1aae3cbc000090) -- Ranking: currently in Beta (estimated 1 kyu)
+
 [**Interlaced Spiral Cipher**](https://www.codewars.com/kata/5a24a35a837545ab04001614) -- Ranking: currently in Beta
 
 [**Shakespearean Tug of War**](https://www.codewars.com/kata/5a1a46ef80171fc2b0000064) -- Ranking: 6 kyu
