@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Checkerboard King Combo Move**](https://www.codewars.com/kata/5a34c8ce55519ecb15000012) -- Ranking: currently in Beta
+
 [**Iterative Rotation Cipher**](https://www.codewars.com/kata/5a3357ae8058425bde002674) -- Ranking: currently in Beta
 
 [**Meta-Kata: Duplicate Detector v0.1**](https://www.codewars.com/kata/5a2f92621f7f701e02000097) -- Ranking: 6 kyu
