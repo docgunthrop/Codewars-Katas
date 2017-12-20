@@ -9,7 +9,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Meta-Kata: Duplicate Detector v0.1**](https://www.codewars.com/kata/5a2f92621f7f701e02000097) -- Ranking: 6 kyu
 
-[**Bloxorz Solver**](https://www.codewars.com/kata/5a2a597a8882f392020005e5) -- Ranking: currently in Beta
+[**Bloxorz Solver**](https://www.codewars.com/kata/5a2a597a8882f392020005e5) -- Ranking: 4 kyu
 
 [**Sliding Puzzle Solver**](https://www.codewars.com/kata/5a20eeccee1aae3cbc000090) -- Ranking: currently in Beta (estimated 1 kyu)
 
