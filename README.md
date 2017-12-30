@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Gold Rush Race**](https://www.codewars.com/kata/5a45364ae6be38e574000092) -- Ranking: currently in Beta
+
 [**Puzzle Fighter**](https://www.codewars.com/kata/5a3cbf29ee1aae06160000c9) -- Ranking: currently in Beta (estimated 1 kyu)
 
 [**Checkerboard King Combo Move**](https://www.codewars.com/kata/5a34c8ce55519ecb15000012) -- Ranking: currently in Beta
