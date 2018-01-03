@@ -7,9 +7,9 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Puzzle Fighter**](https://www.codewars.com/kata/5a3cbf29ee1aae06160000c9) -- Ranking: currently in Beta (estimated 1 kyu)
 
-[**Checkerboard King Combo Move**](https://www.codewars.com/kata/5a34c8ce55519ecb15000012) -- Ranking: currently in Beta
+[**Checkerboard King Combo Move**](https://www.codewars.com/kata/5a34c8ce55519ecb15000012) -- Ranking: 5 kyu
 
-[**Iterative Rotation Cipher**](https://www.codewars.com/kata/5a3357ae8058425bde002674) -- Ranking: currently in Beta
+[**Iterative Rotation Cipher**](https://www.codewars.com/kata/5a3357ae8058425bde002674) -- Ranking: 5 kyu
 
 [**Meta-Kata: Duplicate Detector v0.1**](https://www.codewars.com/kata/5a2f92621f7f701e02000097) -- Ranking: 6 kyu
 
@@ -17,7 +17,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Sliding Puzzle Solver**](https://www.codewars.com/kata/5a20eeccee1aae3cbc000090) -- Ranking: currently in Beta (estimated 1 kyu)
 
-[**Interlaced Spiral Cipher**](https://www.codewars.com/kata/5a24a35a837545ab04001614) -- Ranking: currently in Beta
+[**Interlaced Spiral Cipher**](https://www.codewars.com/kata/5a24a35a837545ab04001614) -- Ranking: 5 kyu
 
 [**Shakespearean Tug of War**](https://www.codewars.com/kata/5a1a46ef80171fc2b0000064) -- Ranking: 6 kyu
 
@@ -25,7 +25,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Major Tom vs Space Invaders**](https://www.codewars.com/kata/59fabc2406d5b638f200004a) -- Ranking: currently in Beta
 
-[**Upside-Down Numbers - Challenge Edition**](https://www.codewars.com/kata/59f98052120be4abfa000304) -- Ranking: currently in Beta (estimated 3 kyu)
+[**Upside-Down Numbers - Challenge Edition**](https://www.codewars.com/kata/59f98052120be4abfa000304) -- Ranking: 3 kyu
 
 [**Solomon's Quest for the Temporal Crystal**](https://www.codewars.com/kata/59d7c910f703c460a2000034) -- Ranking: 6 kyu
 
