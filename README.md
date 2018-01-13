@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Tower Defense: Risk Analysis**](https://www.codewars.com/kata/5a57faad880385f3b60000d0) -- Ranking: currently in Beta
+
 [**Gold Rush Race**](https://www.codewars.com/kata/5a45364ae6be38e574000092) -- Ranking: currently in Beta
 
 [**Puzzle Fighter**](https://www.codewars.com/kata/5a3cbf29ee1aae06160000c9) -- Ranking: currently in Beta (estimated 1 kyu)
