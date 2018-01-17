@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Schrödinger's Boolean**](https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309) -- Ranking: currently in Beta
+
 [**Plants and Zombies**](https://www.codewars.com/kata/5a5db0f580eba84589000979) --  Ranking: currently in Beta
 
 [**Tower Defense: Risk Analysis**](https://www.codewars.com/kata/5a57faad880385f3b60000d0) -- Ranking: 4 kyu
