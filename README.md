@@ -5,7 +5,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Schrödinger's Boolean**](https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309) -- Ranking: 6 kyu
 
-[**Plants and Zombies**](https://www.codewars.com/kata/5a5db0f580eba84589000979) --  Ranking: currently in Beta
+[**Plants and Zombies**](https://www.codewars.com/kata/5a5db0f580eba84589000979) --  Ranking: 3 kyu
 
 [**Tower Defense: Risk Analysis**](https://www.codewars.com/kata/5a57faad880385f3b60000d0) -- Ranking: 4 kyu
 
