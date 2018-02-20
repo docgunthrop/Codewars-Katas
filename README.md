@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Ziggurat Ride of Fortune**](https://www.codewars.com/kata/5a8cacb2d5261f53ec0031f3) -- Ranking: currently in Beta
+
 [**Schrödinger's Boolean**](https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309) -- Ranking: 6 kyu
 
 [**Plants and Zombies**](https://www.codewars.com/kata/5a5db0f580eba84589000979) --  Ranking: 3 kyu
