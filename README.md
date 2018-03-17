@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Four Pass Transport**](https://www.codewars.com/kata/5aaa1aa8fd577723a3000049) -- Ranking: currently in Beta
+
 [**Assorted Rectangular Pieces Puzzle**](https://www.codewars.com/kata/5a8f42da5084d7dca2000255) -- Ranking: currently in Beta
 
 [**Ziggurat Ride of Fortune**](https://www.codewars.com/kata/5a8cacb2d5261f53ec0031f3) -- Ranking: 5 kyu
@@ -25,7 +27,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Bloxorz Solver**](https://www.codewars.com/kata/5a2a597a8882f392020005e5) -- Ranking: 3 kyu
 
-[**Sliding Puzzle Solver**](https://www.codewars.com/kata/5a20eeccee1aae3cbc000090) -- Ranking: currently in Beta (estimated 1 kyu)
+[**Sliding Puzzle Solver**](https://www.codewars.com/kata/5a20eeccee1aae3cbc000090) -- Ranking: 1 kyu
 
 [**Interlaced Spiral Cipher**](https://www.codewars.com/kata/5a24a35a837545ab04001614) -- Ranking: 5 kyu
 
