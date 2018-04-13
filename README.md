@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Foolproof Objects**](https://www.codewars.com/kata/5acdc853d6ef5b9e3300001b) -- Ranking: currently in Beta
+
 [**Blobservation**](https://www.codewars.com/kata/5abab55b20746bc32e000008) -- Ranking: currently in Beta
 
 [**Four Pass Transport**](https://www.codewars.com/kata/5aaa1aa8fd577723a3000049) -- Ranking: currently in Beta
