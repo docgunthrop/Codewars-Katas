@@ -47,6 +47,6 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Papers, Please**](https://www.codewars.com/kata/59d582cafbdd0b7ef90000a0) -- Ranking: currently in Beta (estimated 4 kyu)
 
-[**Spidey Swings Across Town**](https://www.codewars.com/kata/59cda1eda25c8c4ffd000081) -- Ranking: currently in Beta
+[**Spidey Swings Across Town**](https://www.codewars.com/kata/59cda1eda25c8c4ffd000081) -- Ranking: 4 kyu
 
 [**Save the Spice Harvester (Dune Universe)**](https://www.codewars.com/kata/587d7544f1be39c48c000109) -- Ranking: 6 kyu
