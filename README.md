@@ -5,7 +5,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Amidakuji**](https://www.codewars.com/kata/5af4119888214326b4000019) -- Ranking: 6 kyu
 
-[**Gerrymander Solver**](https://www.codewars.com/kata/5a70285ab17101627a000024) -- Ranking: currently in Beta
+[**Gerrymander Solver**](https://www.codewars.com/kata/5a70285ab17101627a000024) -- Ranking: 2 kyu
 
 [**Foolproof Objects**](https://www.codewars.com/kata/5acdc853d6ef5b9e3300001b) -- Ranking: currently in Beta
 
