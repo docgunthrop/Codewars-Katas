@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Alphametics Solver**](https://www.codewars.com/kata/5b5fe164b88263ad3d00250b) -- Ranking: currently in Beta
+
 [**Amidakuji**](https://www.codewars.com/kata/5af4119888214326b4000019) -- Ranking: 6 kyu
 
 [**Gerrymander Solver**](https://www.codewars.com/kata/5a70285ab17101627a000024) -- Ranking: 2 kyu
