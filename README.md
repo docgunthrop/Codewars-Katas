@@ -51,7 +51,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Solomon's Quest for the Temporal Crystal**](https://www.codewars.com/kata/59d7c910f703c460a2000034) -- Ranking: 6 kyu
 
-[**Papers, Please**](https://www.codewars.com/kata/59d582cafbdd0b7ef90000a0) -- Ranking: currently in Beta (estimated 4 kyu)
+[**Papers, Please**](https://www.codewars.com/kata/59d582cafbdd0b7ef90000a0) -- Ranking: 3 kyu
 
 [**Spidey Swings Across Town**](https://www.codewars.com/kata/59cda1eda25c8c4ffd000081) -- Ranking: 4 kyu
 
