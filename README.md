@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Missing Integer in an Unsorted String**](https://www.codewars.com/kata/5b6b67a5ecd0979e5b00000e) -- Ranking: currently in Beta
+
 [**Alphametics Solver**](https://www.codewars.com/kata/5b5fe164b88263ad3d00250b) -- Ranking: currently in Beta
 
 [**Amidakuji**](https://www.codewars.com/kata/5af4119888214326b4000019) -- Ranking: 6 kyu
