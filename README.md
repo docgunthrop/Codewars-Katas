@@ -15,7 +15,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Blobservation**](https://www.codewars.com/kata/5abab55b20746bc32e000008) -- Ranking: 3 kyu
 
-[**Four Pass Transport**](https://www.codewars.com/kata/5aaa1aa8fd577723a3000049) -- Ranking: currently in Beta
+[**Four Pass Transport**](https://www.codewars.com/kata/5aaa1aa8fd577723a3000049) -- Ranking: 1 kyu
 
 [**Assorted Rectangular Pieces Puzzle**](https://www.codewars.com/kata/5a8f42da5084d7dca2000255) -- Ranking: currently in Beta
 
