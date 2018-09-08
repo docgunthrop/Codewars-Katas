@@ -3,7 +3,7 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
-[**Transforming Maze Solver**](https://www.codewars.com/kata/5b86a6d7a4dcc13cd900000b) -- Ranking: currently in Beta
+[**Transforming Maze Solver**](https://www.codewars.com/kata/5b86a6d7a4dcc13cd900000b) -- Ranking: 2 kyu
 
 [**Range of Integers in an Unsorted String**](https://www.codewars.com/kata/5b6b67a5ecd0979e5b00000e) -- Ranking: 5 kyu
 
