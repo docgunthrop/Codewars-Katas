@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Folding Tiles Solver**](https://www.codewars.com/kata/5d0c2a317211500022ca3f6c) -- Ranking: undefined
+
 [**Transforming Maze Solver**](https://www.codewars.com/kata/5b86a6d7a4dcc13cd900000b) -- Ranking: 2 kyu
 
 [**Range of Integers in an Unsorted String**](https://www.codewars.com/kata/5b6b67a5ecd0979e5b00000e) -- Ranking: 5 kyu
