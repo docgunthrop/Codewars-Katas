@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Queue Battle**](https://www.codewars.com/kata/5d617c2fa5e6a2001a369da2) -- Ranking: undefined
+
 [**Area of House from Path of Mouse**](https://www.codewars.com/kata/5d2f93da71baf7000fe9f096) -- Ranking: 4 kyu
 
 [**Folding Tiles Solver**](https://www.codewars.com/kata/5d0c2a317211500022ca3f6c) -- Ranking: currently in Beta
