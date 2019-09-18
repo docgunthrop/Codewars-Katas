@@ -3,6 +3,8 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Dots and Boxes Validator**](https://www.codewars.com/kata/5d81d8571c6411001a40ba66) -- Ranking: undefined
+
 [**Stable Weight Arrangement**](https://www.codewars.com/kata/5d6eef37f257f8001c886d97) -- Ranking: undefined
 
 [**Queue Battle**](https://www.codewars.com/kata/5d617c2fa5e6a2001a369da2) -- Ranking: undefined
