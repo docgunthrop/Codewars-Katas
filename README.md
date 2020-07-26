@@ -3,11 +3,15 @@ A listing of Codewars katas I have created (in order from most recently publishe
 
 The full list: https://www.codewars.com/users/docgunthrop/authored
 
+[**Hexagoku Solver**](https://www.codewars.com/kata/5ed483c2c66c2b00112b110a) -- Ranking: undefined
+
+[**Hexagon Beam Max Sum**](https://www.codewars.com/kata/5ecc1d68c6029000017d8aaf) -- Ranking: 6 kyu
+
 [**Dots and Boxes Validator**](https://www.codewars.com/kata/5d81d8571c6411001a40ba66) -- Ranking: 5 kyu
 
-[**Stable Weight Arrangement**](https://www.codewars.com/kata/5d6eef37f257f8001c886d97) -- Ranking: undefined
+[**Stable Weight Arrangement**](https://www.codewars.com/kata/5d6eef37f257f8001c886d97) -- Ranking: 5 kyu
 
-[**Queue Battle**](https://www.codewars.com/kata/5d617c2fa5e6a2001a369da2) -- Ranking: undefined
+[**Queue Battle**](https://www.codewars.com/kata/5d617c2fa5e6a2001a369da2) -- Ranking: 4 kyu
 
 [**Area of House from Path of Mouse**](https://www.codewars.com/kata/5d2f93da71baf7000fe9f096) -- Ranking: 4 kyu
 
@@ -29,7 +33,7 @@ The full list: https://www.codewars.com/users/docgunthrop/authored
 
 [**Four Pass Transport**](https://www.codewars.com/kata/5aaa1aa8fd577723a3000049) -- Ranking: 1 kyu
 
-[**Assorted Rectangular Pieces Puzzle**](https://www.codewars.com/kata/5a8f42da5084d7dca2000255) -- Ranking: currently in Beta
+[**Assorted Rectangular Pieces Puzzle**](https://www.codewars.com/kata/5a8f42da5084d7dca2000255) -- Ranking: 2 kyu
 
 [**Ziggurat Ride of Fortune**](https://www.codewars.com/kata/5a8cacb2d5261f53ec0031f3) -- Ranking: 5 kyu
 
